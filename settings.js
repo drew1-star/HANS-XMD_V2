@@ -1,16 +1,16 @@
 //base by HANSTZ
 //YouTube: @HANSTZ-TECH
-//Whatsapp https://wa.me/255614195217
+//Whatsapp https://whatsapp.com/channel/0029VbARrVYATRSr196egF2P
 //GitHub: @Mrhanstz
-//WhatsApp: https://whatsapp.com/channel/0029VasiOoR3bbUw5aV4qB31
-//want more free bot scripts? follow my channel : https://whatsapp.com/channel/0029VasiOoR3bbUw5aV4qB31
+//WhatsApp: https://whatsapp.com/channel/0029VbARrVYATRSr196egF2P
+//want more free bot scripts? follow my channel : https://whatsapp.com/channel/0029VbARrVYATRSr196egF2P
 const fs = require('fs')
 const chalk = require('chalk')
 require('dotenv').config()
 
 //contact details - sensitive info moved to .env
-global.SESSION_ID = process.env.SESSION_ID || "" //fallback to default if not in .env
-global.ownernomer = process.env.OWNER_NUMBER || "255614195217"
+global.SESSION_ID = process.env.SESSION_ID || "HansTz&utQkhaga#H_0hXo_AIQX4AF5iz0r_xRp2wevRIbyh0goLruZGKfM" //fallback to default if not in .env
+global.ownernomer = process.env.OWNER_NUMBER || "263785785040"
 
 global.ownername = process.env.OWNER_NAME || "HansTech"
 
